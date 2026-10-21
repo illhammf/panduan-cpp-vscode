@@ -13,7 +13,7 @@ Panduan ini menggunakan **Visual Studio Code (VS Code)** sebagai editor dan **Mi
 1. [Tujuan Panduan](#1-tujuan-panduan)
 2. [Mengenal Tools yang Digunakan](#2-mengenal-tools-yang-digunakan)
 3. [Persiapan Sebelum Instalasi](#3-persiapan-sebelum-instalasi)
-4. [Instalasi Visual Studio Code](#4-instalasi-visual-studio-code)
+4. [Instalasi Visual Studio Code](#4-instalasi-visual-studio-code) 
 5. [Instalasi Compiler MinGW-w64](#5-instalasi-compiler-mingw-w64)
 6. [Konfigurasi PATH pada Windows](#6-konfigurasi-path-pada-windows)
 7. [Instalasi Ekstensi C/C++](#7-instalasi-ekstensi-cc)
