@@ -1,6 +1,6 @@
 # Panduan Instalasi dan Konfigurasi C++ Menggunakan Visual Studio Code dan MinGW-w64
 
-Panduan ini disusun sebagai bahan pendamping praktikum mata kuliah **Algoritma dan Pemrograman**, khususnya bagi mahasiswa yang baru mulai mempelajari bahasa pemrograman C++ di Windows.
+Panduan ini disusun sebagai bahan pendamping praktikum mata kuliah **Algoritma dan Pemrograman** dan **Struktur Data**, khususnya bagi mahasiswa yang baru mulai mempelajari bahasa pemrograman C++ di Windows.
 
 Melalui panduan ini, mahasiswa akan mempelajari cara menyiapkan lingkungan pemrograman C++, mulai dari instalasi editor, pemasangan compiler, konfigurasi lingkungan, menjalankan program pertama, hingga memahami dan mengatasi error yang umum terjadi.
 
